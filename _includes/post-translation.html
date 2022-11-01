@@ -1,0 +1,5 @@
+{% for relatedPost in site.posts %}
+  {% if relatedPost.key == page.key and relatedPost.lang != page.lang %}
+    <a href="{{ site.url }}{{ relatedPost.url }}">Read this post in {{ relatedPost.lang }}</a>
+  {% endif %}
+{% endfor %}
