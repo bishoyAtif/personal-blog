@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    
+    <description>This website is a virtual proof that I'm awesome</description>
+    
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Communication Tips For Engineers</title>
+        <description>
+          
+          The Markdown language Markdown is a lightweight markup language that you can use to add formatting elements to plain text documents. Created by John Gruber in ~2003~2004, Markdown is now one of the world’s most popular markup languages. Intro Coding and designing are only a tiny part of an engineer’s...
+        </description>
+        <pubDate>Sat, 29 Oct 2022 00:00:00 -0400</pubDate>
+        <link>/2022-10-29-communication-for-engineers/</link>
+        <guid isPermaLink="true">/2022-10-29-communication-for-engineers/</guid>
+      </item>
+    
+      <item>
+        <title>نصائح للتواصل الأمثل كمبرمج</title>
+        <description>
+          
+          Coding and designing are only a tiny part of an engineer’s activities. No matter how voluminous or impressive your contributions, if no one knows you did the work, how will you get recognition for it? The most straightforward life hack to increase your charisma is to give compliments. Five Rules for...
+        </description>
+        <pubDate>Thu, 04 Nov 2021 00:00:00 -0400</pubDate>
+        <link>/2021-11-04-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84-%D9%83%D9%85%D8%A8%D8%B1%D9%85%D8%AC/</link>
+        <guid isPermaLink="true">/2021-11-04-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84-%D9%83%D9%85%D8%A8%D8%B1%D9%85%D8%AC/</guid>
+      </item>
+    
+      <item>
+        <title>Sample blog post</title>
+        <description>
+          Each post also has a subtitle - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
+        <link>/2020-02-28-test-markdown/</link>
+        <guid isPermaLink="true">/2020-02-28-test-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+        <link>/2020-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">/2020-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>
